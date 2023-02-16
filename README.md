@@ -1,10 +1,8 @@
 
-Codigo
+![](nexerlogo.png)
 
 # codigo fuente 
 
 ```cs
 Console.WriteLine("Hola equipo :)");
 ```
-
-![](raiz.png.png)
